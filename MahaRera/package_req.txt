@@ -1,0 +1,3 @@
+# MahaRera> pip install -r package_req.txt
+
+selenium==3.14.0

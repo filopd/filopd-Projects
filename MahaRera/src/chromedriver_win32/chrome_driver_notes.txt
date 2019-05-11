@@ -1,0 +1,12 @@
+----------ChromeDriver v74.0.3729.6 (2019-03-14)----------
+Supports Chrome v74
+Resolved issue 2799: Recent change to WebDriver Tests causes ChromeDriver to fail W3C Tests [[Pri-]]
+Resolved issue 2798: GET /sessions is not working if at least one of the sessions is in W3C mode [[Pri-3]]
+Resolved issue 2783: Improper UTF-8 encoding for CSS child selectors (driver.page_source) [[Pri-]]
+Resolved issue 2782: ChromeDriver can't connect to Chrome when /dev/shm is not available on Linux [[Pri-2]]
+Resolved issue 2773: Raise a standard exception when element is overlay by another element [[Pri-2]]
+Resolved issue 2768: 2.46 produces unexpected debug.log file if verbose logging is enabled [[Pri-1]]
+Resolved issue 2749: Update Switch To Frame error checks to match latest W3C spec [[Pri-3]]
+Resolved issue  755: /session/:sessionId/doubleclick only generates one set of mousedown/mouseup/click events [[Pri-2]]
+Resolved issue  427: Clicking div with SVG image causes "cannot read property 'length' of undefined" error. [[Pri-2]]
+
