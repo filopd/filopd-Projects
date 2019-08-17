@@ -11,13 +11,13 @@
 * Vision Based Technology (Marker Based)
 * Object Recognition
 * Features:
-  ** Model based Approaches (Kinematic Model)
-  ** View based Approaches
-  ** Low Level Features based Approaches
+  * Model based Approaches (Kinematic Model)
+  * View based Approaches
+  * Low Level Features based Approaches
 * Detection and Tracking Algorithms:
-  ** Hidden Markov Models (HMM)
-  ** YUV Colour Space and CAMSHIFT Algorithm
-  ** NEURAL NETWORK APPROACH
+  * Hidden Markov Models (HMM)
+  * YUV Colour Space and CAMSHIFT Algorithm
+  * NEURAL NETWORK APPROACH
 
 # Material & Methods
 * Operating System is Windows 7 and Windows 8/8.1
