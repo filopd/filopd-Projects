@@ -1,11 +1,11 @@
-NOTE: I can not share the source on GitHub since this project is developed as a Team work.
+* NOTE: I can not share the source on GitHub since this project is developed as a Team work.
 
 # Introduction
-This project is an interface, which interpreters the human hand movement to control pointer on screen and some gestures to execute applications.
+* This project is an interface, which interpreters the human hand movement to control pointer on screen and some gestures to execute applications.
 
 # Domain
-Human Computer Interaction
-Image Processing
+* Human Computer Interaction
+* Image Processing
 
 # Summary
 Vision Based Technology (Marker Based)
